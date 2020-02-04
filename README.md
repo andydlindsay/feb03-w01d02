@@ -9,6 +9,9 @@
 - Write code with intention
 - Don't bother writing notes
 - "array.reduce google that later"
+- Learn to love errors!
+- Work incrementally
+
 
 ### Curriculum Overview
 Week 1 && 2: Fundamentals Functions, Objects, Conditionals, Arrays, Loops
@@ -39,6 +42,13 @@ Write a Node program that takes in an unlimited number of command line arguments
 
 
 
+git status
+git add .
+git status
+
+
+EDD - Error Driven Development
+N-Driven Development
 
 
 
